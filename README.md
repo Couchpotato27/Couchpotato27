@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Couchpotato27
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, web dev, designing
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me :DMs
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wont give up until it's done
